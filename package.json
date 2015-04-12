@@ -1,0 +1,19 @@
+{
+  "name": "kodi",
+  "version": "1.0.0",
+  "description": "Change world by renting",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aeijae/kodi"
+  },
+  "author": "Kodi Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aeijae/kodi/issues"
+  },
+  "homepage": "https://github.com/aeijae/kodi"
+}
