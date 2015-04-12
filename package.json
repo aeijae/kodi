@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aeijae/kodi/issues"
   },
-  "homepage": "https://github.com/aeijae/kodi"
+  "homepage": "https://github.com/aeijae/kodi",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
 }
