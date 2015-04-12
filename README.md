@@ -6,7 +6,7 @@ npm install
 
 npm install -g nodemon
 
-node run app.js
+nodemon app.js
 
 Access app at http://localhost:3000/
 
